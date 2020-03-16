@@ -1,5 +1,5 @@
-Strings and basics of text processing
+﻿Strings and basics of text processing
 
 Работа со строкой с массивом символов - CharacterArray
 Работа со строкой как с объектом типа String или StringBuilder - ObjectString
-Работа с регулярными выражениями (Pattern, Matcher) - RegularExpressions
+Работа с регулярными выражениями (Pattern, Matcher) - RegularExpressions, XMLRegex
