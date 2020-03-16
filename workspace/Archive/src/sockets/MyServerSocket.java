@@ -60,7 +60,7 @@ class ServerThread extends Thread {
 			ReaderXML reader = new ReaderXML();
 			students = reader.read();
 			if(students == null) {
-				System.out.println("Students is not founded");
+				System.out.println("Students are not founded");
 				students = new Students();
 			}
 			while((key = is.readLine()) != null){

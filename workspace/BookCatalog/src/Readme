@@ -1,0 +1,7 @@
+Запускается с помощью Main в package runner
+Уже зарегистрированные пользователи
+login: admin
+password: admin
+
+login: user
+password: user
